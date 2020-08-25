@@ -11,41 +11,27 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* PhD, Institute of Language, Cognition, and Computation, School of Informatics, University of Edinburgh, 2022 (expected)
+* MSc in Computational Linguistics, University of Washington, 2018
+* BA in Linguistics, Brigham Young University, 2015
+
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2018-2019: Machine learning engineer
+  * Bose Corporation
+  * Developed solutions to problems in speech and language processing in order to drive product development
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2017: Computational linguist 
+  * Contractor through Appen Inc., onsite at Facebook Inc.
+  * Develop data curation practices and standards for several diverse NLU projects.
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
 Teaching
@@ -54,6 +40,8 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Skills
 ======
-* Currently signed in to 43 different slack teams
+* Python
+* Macine learning, including deep learning (using PyTorch)
+* Languages: English (native), Russian (fluent (C2)), Spanish (conversational), French (conversational)
