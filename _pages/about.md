@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD student in the Institute for Language, Cognition and Computation at the University of Edinburgh. I work with Sharon Goldwater and Mark Steedman on incorporating prosody into NLP models.
+I'm a PhD student in the [Institute for Language, Cognition and Computation](http://web.inf.ed.ac.uk/ilcc) at the University of Edinburgh. I work with [Sharon Goldwater](https://homepages.inf.ed.ac.uk/sgwater/) and [Mark Steedman](https://homepages.inf.ed.ac.uk/steedman/) on incorporating prosody into NLP models.
