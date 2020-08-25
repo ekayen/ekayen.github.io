@@ -10,11 +10,3 @@ location: "Honolulu, Hawaii"
 
 TA for undergraduate linguistics courses
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
