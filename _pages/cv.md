@@ -44,4 +44,10 @@ Skills
 ======
 * Python
 * Macine learning, including deep learning (using PyTorch)
-* Languages: English (native), Russian (fluent (C2)), Spanish (conversational), French (conversational)
+
+Languages
+======
+* English (native)
+* Russian (fluent (C2))
+* Spanish (conversational)
+* French (read)
