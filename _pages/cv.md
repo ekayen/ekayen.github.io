@@ -31,8 +31,8 @@ Work experience
 Publications
 ======
   <ul>
-    {% assign sorted = site.publications | sort: 'date' | reverse %}
-    {% for item in sorted %}
+    {% assign sorted = site.publications | reverse %}
+    {% for post in sorted %}
      {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
