@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* PhD, Institute of Language, Cognition, and Computation, School of Informatics, University of Edinburgh, 2022 (expected)
+* PhD, Institute of Language, Cognition, and Computation, School of Informatics, University of Edinburgh, 2023 (expected)
 * MSc in Computational Linguistics, University of Washington, 2018
 * BA in Linguistics, Brigham Young University, 2015
 
