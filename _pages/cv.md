@@ -38,7 +38,8 @@ Publications
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
+  <ul>{% assign sorted = site.teaching | reverse %}
+  {% for post in sorted %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
