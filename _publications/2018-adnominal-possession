@@ -2,7 +2,7 @@
 title: "Modeling adnominal possession in multilingual grammar engineering"
 collection: publications
 permalink: /publication/2018-adnominal-possession
-excerpt: 'In this paper we describe insights gained from building an extension to the LinGO Grammar Matrix customization system to cover adnominal possessive phrases. We show how the wide range of such constructions attested in the world’s languages can be handled with the typical major phrase types used in HPSG and discuss the value of feature bundling in the multilingual grammar engineering context.'
+excerpt: ''
 date: 2018-06-30
 venue: 'Proceedings of the 25th International Conference on Head-Driven Phrase Structure Grammar'
 paperurl: 'https://web.stanford.edu/group/cslipublications/cslipublications/HPSG/2018/hpsg2018-nielsen-bender.pdf'
