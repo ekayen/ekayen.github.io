@@ -19,12 +19,10 @@ Education
 
 Work experience
 ======
-* 2018-2019: Machine learning engineer
-  * Bose Corporation
+* 2018-2019: Machine learning engineer, Bose Corporation
   * Developed solutions to problems in speech and language processing in order to drive product development
 
-* 2017: Computational linguist 
-  * Contractor through Appen Inc., onsite at Facebook Inc.
+* 2017: Computational linguist, contractor through Appen Inc., onsite at Facebook Inc.
   * Develop data curation practices and standards for several diverse NLU projects.
   
 
