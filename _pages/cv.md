@@ -44,7 +44,7 @@ Teaching
 Skills
 ======
 * Python
-* Macine learning, including deep learning (using PyTorch)
+* Machine learning, including deep learning (using PyTorch)
 
 Languages
 ======
