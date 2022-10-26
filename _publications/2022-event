@@ -1,1 +1,15 @@
-placeholder
+---
+title: "Zero-shot Cross-Linguistic Learning of Event Semantics"
+collection: publications
+permalink: /publication/2022-event
+excerpt: ''
+date: 2022-01-01
+venue: '15th International Natural Language Generation Conference'
+paperurl: 'https://arxiv.org/abs/2207.02356'
+citation: 'Malihe Alikhani, Thomas Kober, Bashar Alhafni, Yue Chen, Mert Inan, Elizabeth Nielsen, Shahab Raji, Mark Steedman, Matthew Stone. 2022. Zero-shot Cross-Linguistic Learning of Event Semantics. INLG 2022.'
+---
+
+Typologically diverse languages offer systems of lexical and grammatical aspect that allow speakers to focus on facets of event structure in ways that comport with the specific communicative setting and discourse constraints they face. In this paper, we look specifically at captions of images across Arabic, Chinese, Farsi, German, Russian, and Turkish and describe a computational model for predicting lexical aspects. Despite the heterogeneity of these languages, and the salient invocation of distinctive linguistic resources across their caption corpora, speakers of these languages show surprising similarities in the ways they frame image content. We leverage this observation for zero-shot cross-lingual learning and show that lexical aspects can be predicted for a given language despite not having observed any annotated data for this language at all.
+
+[Download paper here](https://arxiv.org/abs/2207.02356)
+
