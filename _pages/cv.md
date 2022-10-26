@@ -19,6 +19,9 @@ Education
 
 Work experience
 ======
+* 2022: PhD research intern, Google
+  * Developed methods for handling regional variation in user-generated text
+
 * 2018-2019: Machine learning engineer, Bose Corporation
   * Developed solutions to problems in speech and language processing in order to drive product development
 
