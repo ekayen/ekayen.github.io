@@ -1,0 +1,15 @@
+---
+title: "Spelling convention sensitivity in neural language models"
+collection: publications
+permalink: /publication/2023-ukus
+excerpt: ''
+date: 2023-05-04
+venue: 'Findings of EACL'
+paperurl: 'https://aclanthology.org/2023.findings-eacl.98/'
+citation: 'Elizabeth Nielsen, Christo Kirov, and Brian Roark. 2023. Spelling convention sensitivity in neural language models. In Findings of the Association for Computational Linguistics: EACL 2023, pages 1334–1346, Dubrovnik, Croatia. Association for Computational Linguistics.'
+---
+We examine whether large neural language models, trained on very large collections of varied English text, learn the potentially long-distance dependency of British versus American spelling conventions, i.e., whether spelling is consistently one or the other within model-generated strings. In contrast to long-distance dependencies in non-surface underlying structure (e.g., syntax), spelling consistency is easier to measure both in LMs and the text corpora used to train them, which can provide additional insight into certain observed model behaviors. Using a set of probe words unique to either British or American English, we first establish that training corpora exhibit substantial (though not total) consistency. A large T5 language model does appear to internalize this consistency, though only with respect to observed lexical items (not nonce words with British/American spelling patterns). We further experiment with correcting for biases in the training data by fine-tuning T5 on synthetic data that has been debiased, and find that finetuned T5 remains only somewhat sensitive to spelling consistency. Further experiments show GPT2 to be similarly limited.
+
+[Download paper here](https://aclanthology.org/2023.findings-eacl.98/)
+
+Recommended citation: Elizabeth Nielsen, Christo Kirov, and Brian Roark. 2023. Spelling convention sensitivity in neural language models. In Findings of the Association for Computational Linguistics: EACL 2023, pages 1334–1346, Dubrovnik, Croatia. Association for Computational Linguistics.
