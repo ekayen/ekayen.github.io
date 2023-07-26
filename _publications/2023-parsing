@@ -4,12 +4,12 @@ collection: publications
 permalink: /publication/2023-parsing
 excerpt: ''
 date: 2023-08-20
-venue: 'Interspeech 2023'
-paperurl: 'https://ekayen.github.io'
+venue: 'Interspeech'
+paperurl: ''
 citation: 'Elizabeth Nielsen, Mark Steedman, and Sharon Goldwater. 2023. Parsing dialog turns with prosodic features in English. In Proceedings of Interspeech 2023, Dublin, Ireland. IEEE.'
 ---
 [abstract forthcoming]
 
-[Download paper here](https://ekayen.github.io)
+[Download paper here]()
 
 Recommended citation: Elizabeth Nielsen, Mark Steedman, and Sharon Goldwater. 2023. Parsing dialog turns with prosodic features in English. In Proceedings of Interspeech 2023, Dublin, Ireland. IEEE.
