@@ -19,7 +19,10 @@ Education
 
 Work experience
 ======
-* 2022: PhD research intern, Google
+* 2023: PhD research intern, Google, Translation Research
+  * Developed methods for translating low-resource languages.
+
+* 2022: PhD research intern, Google, GBoard Research
   * Developed methods for handling regional variation in user-generated text
 
 * 2018-2019: Machine learning engineer, Bose Corporation
