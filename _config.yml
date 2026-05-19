@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Elizabeth Nielsen"
 title_separator          : "-"
 name                     : &name "Elizabeth Nielsen"
-description              : &description "PhD Student at the University of Edinburgh"
+description              : &description "Researcher at Google DeepMind"
 url                      : https://ekayen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ekayen/ekayen.github.io"
@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=xEWKs1sAAAAJ&hl=en&oi=sra"
-  email            : "e.k.nielsen@sms.ed.ac.uk"
+  email            : "eknielsen@google.com"
   researchgate     :  
   uri              :
   bitbucket        :
