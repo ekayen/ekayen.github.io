@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* PhD, Institute of Language, Cognition, and Computation, School of Informatics, University of Edinburgh, 2023 (expected)
+* PhD, Institute of Language, Cognition, and Computation, School of Informatics, University of Edinburgh, 2024
 * MSc in Computational Linguistics, University of Washington, 2018
 * BA in Linguistics, Brigham Young University, 2015
 
@@ -19,6 +19,8 @@ Education
 
 Work experience
 ======
+* 2024 -- present: Researcher, Google DeepMind and Google Translate.
+
 * 2023: PhD research intern, Google, Translation Research
   * Developed methods for translating low-resource languages.
 
